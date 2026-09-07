@@ -1,0 +1,20 @@
+CYBER CHALLENGE - QUICK START
+
+1) Open this folder in Terminal.
+2) Run:
+   npm install
+3) Then run:
+   npm start
+4) Open:
+   http://localhost:3000
+
+Admin dashboard:
+   http://localhost:3000/admin.html
+
+Default development admin credentials:
+   Username: admin
+   Password: change-me-now
+
+For production, create a .env file and change the password + session secret.
+
+Tip: when you want the updated certificate, finish a new challenge session and download the new PDF.
